@@ -1,0 +1,17 @@
+{
+  "name": "PruebaPublico",
+  "authors": [
+    "Lucia Rivas <lucia@solofisa.ts>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
